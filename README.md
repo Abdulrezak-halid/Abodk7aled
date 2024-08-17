@@ -1,11 +1,13 @@
 
 ##### Hi, I'm Abdulrezak Khaled:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
+- 🎓I am a student of Information Systems and Technology at Mersin University.
+- :test_tube: I study and work at the same time. I love my job and technology.
+- 🪐I work as a Front-End Developer at A Arti Mühendislik.
+- :speech_balloon: I love programming, technology, and continuous learning.
+- :mailbox: Learning something new every day makes me very happy.
+
+
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/adamalston)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
