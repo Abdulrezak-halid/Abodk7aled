@@ -1,6 +1,6 @@
 <h1 align="Center" color="teal">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-##### Hi, I'm Abdulrezak Khaled :
+<h4> ##### Hi, I'm Abdulrezak Khaled </h4>
 
 - 📚 I am a student of Information Systems and Technology at Mersin University.
 - ⚡ I study and work at the same time. I love my job and technology.
