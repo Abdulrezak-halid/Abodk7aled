@@ -1,11 +1,11 @@
 
 ##### Hi, I'm Abdulrezak Khaled:
 
-- 🎓I am a student of Information Systems and Technology at Mersin University.
-- :test_tube: I study and work at the same time. I love my job and technology.
-- 🪐I work as a Front-End Developer at A Arti Mühendislik.
-- :speech_balloon: I love programming, technology, and continuous learning.
-- :mailbox: Learning something new every day makes me very happy.
+- 📚 I am a student of Information Systems and Technology at Mersin University.
+- ⚡ I study and work at the same time. I love my job and technology.
+- 👨‍💻 I work as a Front-End Developer at A Arti Mühendislik.
+- 💻 I love programming, technology, and continuous learning.
+- 🌐 Learning something new every day makes me very happy.
 
 
 
