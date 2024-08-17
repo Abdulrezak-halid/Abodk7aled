@@ -1,6 +1,6 @@
 <h1 align="Center" color="teal">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
 
-<h4> ##### Hi, I'm Abdulrezak Khaled </h4>
+<h4> Hi, I'm Abdulrezak Khaled </h4>
 
 - 📚 I am a student of Information Systems and Technology at Mersin University.
 - ⚡ I study and work at the same time. I love my job and technology.
@@ -16,7 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abodk7aled/)
 
 
-##### Languages and Tools
+<h4> Languages and Tools <h4/>
 <div style="display: inline-block;">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
