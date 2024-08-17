@@ -31,7 +31,7 @@
 </div>
 
 
-<h2 align="center">Profile stats :musical_keyboard:</h2>
+<h2>Profile stats :musical_keyboard:</h2>
 
 <p align="center" margin="10px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abodk7aled&layout=compact&theme=radical" alt="My Github Stats">
