@@ -1,6 +1,9 @@
-<h1 align="Center" color="teal">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h1>
+<h1 align="Center" color="teal">  Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 
-<h4> Hi, I'm Abdulrezak Khaled </h4>
+<p align="center" margin="10px">
+<h2> I'm Abdulrezak Khaled  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  </h2>  
+</div>
+
 
 - 📚 I am a student of Information Systems and Technology at Mersin University.
 - ⚡ I study and work at the same time. I love my job and technology.
@@ -10,13 +13,7 @@
 
 
 
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ax729)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrezak.khaled@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrezak-khaled)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abodk7aled/)
-
-
-<h4> Languages and Tools <h4/>
+<h2> Languages and Tools 🛠 <h2/>
 <div style="display: inline-block;">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -31,13 +28,21 @@
 </div>
 
 
-<h2>Profile stats :musical_keyboard:</h2>
+<h2>Profile stats 📈</h2>
 
 <p align="center" margin="10px">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abodk7aled&layout=compact&theme=radical" alt="My Github Stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abodk7aled&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
+<br/>
+
+<h2>Reach Me at 📫</h2>
+
+[![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ax729)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrezak.khaled@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrezak-khaled)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abodk7aled/)
 
 
 ```javascript
