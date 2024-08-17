@@ -1,4 +1,3 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
 
 ##### Hi, I'm Abdulrezak Khaled:
 
