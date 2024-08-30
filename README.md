@@ -44,6 +44,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abodk7aled/)
 
 
+<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="100" height="100">
+
+
 ```javascript
 // Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
